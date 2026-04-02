@@ -49,9 +49,9 @@
 ## 🏆 Achievements
 <div align="center">
 
-| 🥇 Code-League-1.0 | 🚀 Build.exe Hackathon | 🎯 Byte Quest | 🌟 GDG DevFest | 💻 TechSprint | 💻 Ecothon |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1st Runner-up | Participant | ⏲️ 24h AI Coding | Cert'd | Participant | ACM, 2026 |
+| 🥇 HackArena-2.0 | 🥈 Code-League-1.0 | 🚀 Build.exe Hackathon | 🎯 Byte Quest | 🌟 GDG DevFest | 💻 TechSprint | 💻 Ecothon |
+|:----------------:|:----------------:|:----------------------:|:-------------:|:--------------:|:------------:|:-----------:|
+| 1st Winner       | 2nd Runner-up    | Participant            | ⏲️ 24h AI Coding | Cert'd       | Participant  | ACM, 2026   |
 
 </div>
 
