@@ -46,17 +46,6 @@
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-
-| 🥇 HackArena-2.0 | 🥈 Code-League-1.0 | 🚀 Build.exe Hackathon | 🎯 Byte Quest | 🌟 GDG DevFest | 💻 TechSprint | 💻 Ecothon |
-|:----------------:|:----------------:|:----------------------:|:-------------:|:--------------:|:------------:|:-----------:|
-| 1st Winner       | 2nd Runner-up    | Participant            | ⏲️ 24h AI Coding | Cert'd       | Participant  | ACM, 2026   |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 <div align="center">
   
@@ -64,38 +53,10 @@
 [![AI-Veritas](https://img.shields.io/badge/AI--Veritas-AI_Verify-brightgreen?logo=github)](https://github.com/unknownmember4u/Ai-Veritas.git)
 [![PentestIQ](https://img.shields.io/badge/PentestIQ-Pentest-orange?logo=github)](https://github.com/unknownmember4u/PentestIQ.git)
 [![Backup/Restore](https://img.shields.io/badge/Backup_Restore-DevOps_Utility-yellow?logo=github)](https://github.com/unknownmember4u/Automated-Backup-Restore-System.git)
-[![PRnote](https://img.shields.io/badge/PRnote-Note_%26_To-Do_Utility-yellow?logo=github)](https://github.com/unknownmember4u/PRnote.git)
 </div>
 
 ---
 
-## 💡 Now Building
-
-- ☁️ AWS Cloud/automation
-- 🐧 Deep Linux/DevOps admin
-- 🤝 Open-source community
-
----
-
-## 🌱 Current Goals
-
-| ✅ | Goal |
-|----|------|
-| 🚀 | Cloud production-ready apps |
-| 🔄 | Distributed systems & microservices |
-| 🌏 | Open source impact |
-| ✍️ | Tech blogs & communities |
-| 🎖️ | Prep for cloud roles |
-
----
-
-## 💬 Fun Facts
-
-- 🔐 Cybersecurity fan
-- 🏅 Hackathon buff
-- 🌐 Tech for social impact (see NyayMitra)
-
----
 
 ## 🤝 Let’s Connect!
 
