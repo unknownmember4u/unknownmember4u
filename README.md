@@ -32,20 +32,6 @@
 
 ---
 
-## 🛠️ Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,aws,linux,docker,git,github,photoshop" height="48" style="margin: 0 6px;" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow%20Data%20Analysis-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Speciality-darkgray?style=flat" />
-  <img src="https://img.shields.io/badge/Cloud-orange?style=flat" />
-  <img src="https://img.shields.io/badge/DevOps-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Linux-green?style=flat" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 <div align="center">
   
