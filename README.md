@@ -32,6 +32,14 @@
 
 ---
 
+## 📊 3D Contribution Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unknownmember4u/unknownmember4u/main/profile-3d-contrib/profile-night-view.svg" alt="3D skyline-style GitHub contribution graph in a night cityscape theme" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 <div align="center">
   
